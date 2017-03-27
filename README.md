@@ -1,1 +1,1 @@
-# ultrasonar-presence-sks7
+# ultrasonic-presence-sks7
